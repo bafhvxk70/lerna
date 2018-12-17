@@ -1,8 +1,8 @@
 {
-  "name": "ccq-module-2",
+  "name": "ccqccqup2",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,6 @@
   "dependencies": {
     "ccccqq": "^1.0.5",
     "jQuery": "^1.7.4"
-  }
+  },
+  "gitHead": "c5efd371fe6de873d76571f443850a7c776df162"
 }

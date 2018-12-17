@@ -1,3 +1,5 @@
+var a = 'ccq'
 export default function(){
-	console.log('modules0')
+	console.log(a);
+	console.log('modules0');
 }
