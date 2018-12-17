@@ -1,6 +1,6 @@
 {
   "name": "ccqccqup1",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "./index.js",
   "scripts": {
@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "chenchaoqiang",
   "license": "ISC",
-  "dependencies": {
-  },
   "gitHead": "4da2d667002234521cc033e71f79dff8d0d9ad97"
 }
