@@ -1,3 +1,3 @@
 export default function(){
-	console.log('modules1')
+	console.log('modules2')
 }
