@@ -2,5 +2,5 @@
 
 export default function(){
 	// console.log(alert())
-	console.log(222)
+	console.log(222221222)
 }
